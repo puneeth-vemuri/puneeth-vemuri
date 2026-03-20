@@ -13,18 +13,27 @@
   <a href="https://github.com/puneeth-vemuri">
     <img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://www.linkedin.com/in/puneethvemuri/]">
+  <a href="https://www.linkedin.com/in/puneethvemuri/">
     <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
-### ABOUT
+### ABOUT ME
+A glimpse into my journey, passion, and what drives me to create.
 
-I'm a Computer Science Engineering student passionate about building accessible and user-friendly technology. I enjoy working on web-based applications and computer vision projects that solve real-world problems and improve usability for everyday users.
+I'm a Computer Science undergrad passionate about building impactful projects with modern web and AI technologies. As an aspiring Full Stack & AI Developer, I'm dedicated to solving real-world problems through technology, blending creativity with code from frontend experiences to backend intelligence.
 
-I'm currently exploring projects in AR, AI/ML, and assistive technologies, with a strong interest in applying these skills to healthcare and education domains. I believe in learning by building and continuously improving through hands-on experience.
+**Current Focus:** Building scalable full-stack applications and exploring the depths of AI/ML technologies to create intelligent, adaptive solutions.
 
-Core Skills: Python • Java • React • Docker • Web Technologies
+**Passion:** Solving complex real-world problems through innovative technology and crafting intuitive, impactful user experiences that delight.
+
+**Goals:** Becoming a versatile developer who bridges the gap between frontend creativity and backend intelligence to build the future of web.
+
+**Perspective:** I believe in continuous learning and sharing knowledge with the community to grow together.
+
+<br>
+
+**Core Skills:** Python • Java • React • Docker • Web Technologies
 
 <br>
 
@@ -96,7 +105,7 @@ Core Skills: Python • Java • React • Docker • Web Technologies
 <h4 align="center">Interested in collaborating with me?</h4>
 
 <div align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://www.puneethvemuri.me/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20LIVE%20DEMO-5A67D8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio" />
   </a>
 </div>
@@ -107,10 +116,10 @@ Core Skills: Python • Java • React • Docker • Web Technologies
   <a href="https://github.com/puneeth-vemuri">
     <img src="https://img.shields.io/badge/GitHub-View%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/puneethvemuri/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4285F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:puneethvemuri@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct%20Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
   </a>
 </div>
