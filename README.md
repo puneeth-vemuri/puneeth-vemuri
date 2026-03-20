@@ -86,9 +86,9 @@ I'm a Computer Science undergrad passionate about building impactful projects wi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
