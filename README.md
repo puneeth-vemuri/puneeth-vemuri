@@ -1,36 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Puneeth%20Vemuri&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=61&descSize=20"/>
-
-### 👨‍💻 ABOUT ME
-I am a Software Engineer passionate about building scalable applications and exploring new technologies. I focus on creating production-ready solutions with real-world utility.
-
-### 🎯 DEVELOPMENT FOCUS
-├── Production Deployment
-│   ├── Edge deployment strategies
-│   └── Real-time inference pipelines
-├── Web Architecture Design
-│   ├── Interaction patterns
-│   └── Performance optimization techniques
-└── Narrative-driven technical design
-
-### 🛠️ TECH STACK
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### 📊 GITHUB STATS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puneeth-vemuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneeth-vemuri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Puneeth%20Vemuri&fontSize=60&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=22" width="100%" alt="Profile Banner" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5A67D8&center=true&vCenter=true&width=600&lines=Real-world+problem+solving+through+code;Building+scalable+web+applications" alt="Typing SVG" />
+
+  <br><br>
+
+  <a href="https://www.puneethvemuri.me/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/puneeth-vemuri">
+    <img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="[https://www.linkedin.com/in/puneethvemuri/]">
+    <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-### 🐍 CONTRIBUTION SNAKE
+### ABOUT
+
+I'm a Computer Science Engineering student passionate about building accessible and user-friendly technology. I enjoy working on web-based applications and computer vision projects that solve real-world problems and improve usability for everyday users.
+
+I'm currently exploring projects in AR, AI/ML, and assistive technologies, with a strong interest in applying these skills to healthcare and education domains. I believe in learning by building and continuously improving through hands-on experience.
+
+Core Skills: Python • Java • React • Docker • Web Technologies
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" width="100%" alt="MidnightOwl Workspace" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="100%" alt="Pacman Top Divider" />
+</div>
+
+### TECHNOLOGY STACK
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,react,opencv,docker,git,vercel,firebase,vite,kotlin,mongodb,mysql&perline=6" alt="Tech Stack" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pacman Bottom Divider" />
+</div>
+
+<br>
+
+### METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneeth-vemuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneeth-vemuri&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneeth-vemuri&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneeth-vemuri&bg_color=0d1117&color=2f81f7&line=39d353&point=FFFFFF&area=true&hide_border=true&custom_title=Puneeth%20Vemuri's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/puneeth-vemuri/puneeth-vemuri/output/dist/github-snake.svg">
   </picture>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pacman Divider" />
+</div>
+
+### 🤝 CONNECT
+
+<br>
+
+<h4 align="center">Interested in collaborating with me?</h4>
+
+<div align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20LIVE%20DEMO-5A67D8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/puneeth-vemuri">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4285F4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct%20Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pacman Divider" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=puneeth-vemuri&label=Profile%20Views&color=5A67D8&style=flat" alt="Profile Views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" alt="Footer Wave" />
