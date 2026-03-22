@@ -21,15 +21,9 @@
 ### ABOUT ME
 A glimpse into my journey, passion, and what drives me to create.
 
-I'm a Computer Science undergrad passionate about building impactful projects with modern web and AI technologies. As an aspiring Full Stack & AI Developer, I'm dedicated to solving real-world problems through technology, blending creativity with code from frontend experiences to backend intelligence.
+I’m a Computer Science student and aspiring Full Stack & AI Developer dedicated to building impactful, real-world solutions. I specialize in bridging the gap between frontend creativity and backend intelligence, using a tech stack that includes Python, Java, React, and Docker. My journey is driven by a passion for crafting intuitive user experiences and exploring the depths of AI/ML to create scalable, adaptive applications.
 
-**Current Focus:** Building scalable full-stack applications and exploring the depths of AI/ML technologies to create intelligent, adaptive solutions.
-
-**Passion:** Solving complex real-world problems through innovative technology and crafting intuitive, impactful user experiences that delight.
-
-**Goals:** Becoming a versatile developer who bridges the gap between frontend creativity and backend intelligence to build the future of web.
-
-**Perspective:** I believe in continuous learning and sharing knowledge with the community to grow together.
+Currently, I focus on continuous learning and community growth, aiming to solve complex problems through innovative technology. Whether I’m developing intelligent systems or refining web interfaces, my goal remains the same: to blend creativity with code to build the future of the web.
 
 <br>
 
