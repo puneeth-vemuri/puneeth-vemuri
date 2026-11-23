@@ -7,7 +7,7 @@
 
   <br><br>
 
-  <a href="https://www.puneethvemuri.me/">
+  <a href="https://puneethvemuri.vercel.app/">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/puneeth-vemuri">
